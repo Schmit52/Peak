@@ -1,0 +1,10 @@
+Package: perfectPeakpackage
+Type: Package
+Title: Finding perfect peaks
+Version: 1.0
+Date: 2015-01-31
+Author: Theresa Schmitt
+Maintainer: <Schmit52@students.uni-marburg.de>
+Description: perfectPeak is a package that combines all with all
+License: GPL (>= 2)
+Depends: R (>= 2.14),raster,gdalUtils,rgdal,maptools,RSAGA,spgrass6,downloader,sp,rgeos,Matrix
